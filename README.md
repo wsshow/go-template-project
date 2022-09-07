@@ -1,2 +1,2 @@
-# -go-template-project
+# go-template-project
 golang项目模板
